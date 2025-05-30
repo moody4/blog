@@ -13,7 +13,7 @@ tags:
 
 ## Introduction
 
-**n8ive.Finder** is a quick-search panel for commands, tools, scripts, and actions in *Adobe Illustrator*. Essentially, it’s what most other applications call a *command palette*, but with additional features.
+**n8ive.Finder** is a quick-search panel for menus, tools, scripts, and actions in *Adobe Illustrator*. Essentially, it’s what most other applications call a *command palette*, but with additional features.
 
 The plugin significantly speeds up workflow by allowing users to navigate hundreds of commands without constantly digging through menus or trying to remember hotkeys.
 
@@ -31,7 +31,7 @@ Now, let’s see how this works in practice.
 
 ## Fuzzy Search
 
-You don’t need to remember exact command names — the plugin understands even misspelled queries or partial words. For example, instead of `Expand Appearance`, you can type `exp apr`, and instead of `User Interface`, simply `ui`.  
+You don’t need to remember exact command names — the plugin understands even misspelled or partial queries. For example, instead of `Expand Appearance`, you can type `exp apr`, and instead of `User Interface`, simply `ui`.  
 
 <video controls autoplay="true" loop playsinline src="/mp4/finder-overview/vid-2.mp4" />
 
@@ -91,7 +91,7 @@ The default actions folder path is:
 
 Your recently used commands appear on the homepage (when the search bar is empty).
 
-Pin your favorite commands and rearrange them as needed. To pin a command directly from search results, hold **`Ctrl`** and click the icon that appears on the right.
+Pin your favorite commands and rearrange them as needed. To pin a command directly from search results, hold **`Ctrl`** and click the pin icon on the right.
 
 <video controls autoplay="true" loop playsinline src="/mp4/finder-overview/vid-7.mp4" />
 
