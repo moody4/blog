@@ -1,0 +1,6 @@
+.vitepress/theme/components/Comment.vue
+.vitepress/theme/components/CommentGiscus.vue
+.vitepress/cache
+.vitepress/dist
+.tmp
+node_modules
