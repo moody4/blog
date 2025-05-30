@@ -12,7 +12,20 @@ export default defineConfig({
     cacheDir: './node_modules/vitepress_cache',
     description: 'devlog, blog, adobe iilustrator, plugins, n8ive',
     ignoreDeadLinks: true,
-    head: [['link', { rel: 'icon', href: '/blog/favicon.ico?' }]],
+    head: [['link', { rel: 'icon', href: '/blog/favicon.ico?' }],
+        [
+            'script',
+            { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-HCC4GBVBRH' }
+        ],
+        [
+            'script',
+            {},
+            `window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-HCC4GBVBRH');`
+        ]
+    ],
     markdown: {
         image: {
             lazyLoading: true
