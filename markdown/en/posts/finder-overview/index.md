@@ -111,6 +111,12 @@ This resembles a context menu and is more convenient in certain situations. For 
 The quick-access panel menu only includes settings for the quick-access panel itself.
 :::
 
+## Color Themes
+
+All standard Illustrator themes are supported by the plugin.
+
+![themes](/pic/finder-overview/themes.jpg)
+
 ## Installation
 
 To install the plugin, unzip the archive and place the `n8ive/` folder in one of the following paths (the Illustrator version number may vary):
