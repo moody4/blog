@@ -128,4 +128,14 @@ Finder хранит экшены в корневой папке, которая 
 %programfiles%/Adobe/Adobe Illustrator 2025/Plug-ins
 ```
 
+## Где скачать
 
+Пока **n8ive.Finder** доступен только на моём [Gumroad](https://n8ivestudio.gumroad.com) и **только для Windows**.
+
+По ссылке ниже можно получить 10% скидку:
+
+<a class="gumroad-button" href="https://n8ivestudio.gumroad.com/l/finder/7ycd4ki" data-gumroad-overlay-checkout="true">Купить на</a>
+
+## Как следить за разработкой
+
+[Подписывайтесь](https://n8ivestudio.gumroad.com/subscribe), чтобы оставаться на связи. Только важные новости о моих плагинах, без спама.

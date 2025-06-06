@@ -129,4 +129,15 @@ or
 %programfiles%/Adobe/Adobe Illustrator 2025/Plug-ins
 ```
 
+## Download
+
+Currently **n8ive.Finder** is available on my [Gumroad](https://n8ivestudio.gumroad.com) — a **lifetime license**, no subscription. **Only Windows** supported for now.
+
+Blog visitors get 10% off, just use the link below.
+
+<a class="gumroad-button" href="https://n8ivestudio.gumroad.com/l/finder/7ycd4ki" data-gumroad-overlay-checkout="true">Buy on</a>
+
+## Stay in the Loop
+
+Not ready to buy? [Subscribe for updates](https://n8ivestudio.gumroad.com/subscribe) to stay in touch. No spam — just occasional important news.
 

@@ -17,6 +17,20 @@ In the [plugin overview](../finder-overview/index.md), I aimed to avoid overwhel
 
 You can assign a hotkey to repeat the last command executed through the plugin. This feature is available in the *Edit > Repeat Last Command (n8ive.Finder)* menu.
 
+## Display Modes
+
+In the plugin settings, you can choose how to display search results: as a tree or a list (the *Tree View* option). This is a global setting. However, the bookmark manager also allows you to configure the display mode individually for each bookmark. Toggling between modes is done via a checkbox, which can be in one of three states:
+
+- 🟦 — List
+- ☑️ — Tree
+- ⏹️ — Follow global settings
+
+<video controls autoplay="true" loop playsinline src="/mp4/finder-details/vid-1.mp4" />
+
+::: info NOTE
+In tree mode, `Alt+click` a folder to collapse/expand all peers at its nesting level.
+:::
+
 ## About Regular Expressions
 
 For users leveraging regular expressions ("regex"), note the following:
@@ -41,20 +55,6 @@ Only one nested `#alias` is allowed per filter. Additional aliases are treated a
 
 ::: tip TIP
 Test patterns directly in the search bar. Once satisfied, select *Add Bookmark* from the menu — the manager auto-fills most fields, leaving only the name and alias to assign.
-:::
-
-## Display Modes
-
-In the plugin settings, you can choose how to display search results: as a tree or a list (the *Tree View* option). This is a global setting. However, the bookmark manager also allows you to configure the display mode individually for each bookmark. Toggling between modes is done via a checkbox, which can be in one of three states:
-
-- 🟦 — List
-- ☑️ — Tree
-- ⏹️ — Follow global settings
-
-<video controls autoplay="true" loop playsinline src="/mp4/finder-details/vid-1.mp4" />
-
-::: info NOTE
-In tree mode, `Alt+click` a folder to collapse/expand all peers at its nesting level.
 :::
 
 ## Excluding Files from the Scripts Folder

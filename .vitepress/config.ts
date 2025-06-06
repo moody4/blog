@@ -24,6 +24,13 @@ export default defineConfig({
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'G-HCC4GBVBRH');`
+        ],
+        [
+            'script',
+            {
+                async: '',
+                src: 'https://gumroad.com/js/gumroad.js'
+            }
         ]
     ],
     markdown: {
